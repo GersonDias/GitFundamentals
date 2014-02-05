@@ -1,11 +1,13 @@
-Colocando mais textos no HelloGit!
+Hello, Git
+Updating README with new information
+Committing from an alternate location
+Sharing remotely is fun and easy
 
+Fixing bug#1234
+Another fix to Bug#1234
 
-Agora vou colocar ainda mais textos no readme!
+Feature1
+Feature2
+Feature2 changes
 
-
-Quero ver o blame funcionando!!
-
-Agora tenho o Vim também!
-
-Adding a new information
+Sharing remotely is so so fun and easy
