@@ -1,1 +1,1 @@
-"Hello Git" 
+Colocando mais textos no HelloGit!
